@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T02:12:27.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="W6iUiopDv_7W1HMJakde" version="16.2.6" type="github" pages="2">
-  <diagram id="wmlHtsC3Vf9ltHwHsICz" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-01-14T02:13:34.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="S4j-eoIbpbxq6iVWMpHz" version="16.2.6" type="github" pages="2">
+  <diagram id="wmlHtsC3Vf9ltHwHsICz" name="设备绑定">
     <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -279,7 +279,7 @@
           <mxGeometry x="6" y="1153" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="plYKypvwTfvLCAluZuLY-109" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="plYKypvwTfvLCAluZuLY-106" vertex="1">
-          <mxGeometry x="5" y="1018" width="10" height="102" as="geometry" />
+          <mxGeometry x="5" y="1020" width="10" height="102" as="geometry" />
         </mxCell>
         <mxCell id="3noho2-HdIRzT1J1IJUo-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="plYKypvwTfvLCAluZuLY-106">
           <mxGeometry x="5" y="1234" width="10" height="38" as="geometry" />
@@ -367,8 +367,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="opSibCAJyM08WNPYsEYv" name="第 2 页">
-    <mxGraphModel dx="2188" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="opSibCAJyM08WNPYsEYv" name="权限下发">
+    <mxGraphModel dx="2585" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7Cvv0nZYShoPgynSf5jS-0" />
         <mxCell id="7Cvv0nZYShoPgynSf5jS-1" parent="7Cvv0nZYShoPgynSf5jS-0" />
