@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T08:21:16.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3ltQF7aDZIeu1fyD2dYp" version="18.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-06T10:50:58.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bs26rPSPNJIZXj5KqkkG" version="18.2.0" type="github" pages="5">
   <diagram id="ddFmtyWDZV9ygcxnCpho" name="第 1 页">
-    <mxGraphModel dx="2185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,6 +350,130 @@
               <mxPoint x="885.5" y="1160" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7E-oITKhAx6KvHumO4JR" name="第 5 页">
+    <mxGraphModel dx="3201" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-1" value="AI视联装维（乡村）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="100" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-10" value="查询乡村区域信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="oZ41LeXlBQl8SFPvaIzU-1" target="oZ41LeXlBQl8SFPvaIzU-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="230" as="sourcePoint" />
+            <mxPoint x="130" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-11" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="oZ41LeXlBQl8SFPvaIzU-1" source="oZ41LeXlBQl8SFPvaIzU-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="272" as="sourcePoint" />
+            <mxPoint x="50" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="oZ41LeXlBQl8SFPvaIzU-1">
+          <mxGeometry x="45" y="761" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-29" value="设备绑定关系入库" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="oZ41LeXlBQl8SFPvaIzU-28" parent="oZ41LeXlBQl8SFPvaIzU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="741" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="741" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-2" value="Paas-Admin服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="100" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-3" value="视联网装维页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="120" width="100" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-6" value="查询区域信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="oZ41LeXlBQl8SFPvaIzU-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="194" as="sourcePoint" />
+            <mxPoint x="269.5" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-7" value="返回区域信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="oZ41LeXlBQl8SFPvaIzU-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269.5" y="300" as="sourcePoint" />
+            <mxPoint x="50" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-14" value="设备挂靠" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="oZ41LeXlBQl8SFPvaIzU-3" target="oZ41LeXlBQl8SFPvaIzU-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="370" as="sourcePoint" />
+            <mxPoint x="130" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-4" value="单点登录" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="oZ41LeXlBQl8SFPvaIzU-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-49" y="214" as="sourcePoint" />
+            <mxPoint x="31" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-5" value="返回AccessToken" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" target="oZ41LeXlBQl8SFPvaIzU-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169" y="260" as="sourcePoint" />
+            <mxPoint x="89" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-15" value="PaaS-Device服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="120" width="100" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-17" value="设备绑定" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="170" y="759" as="sourcePoint" />
+            <mxPoint x="639.5" y="759" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-20" value="视联网开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="120" width="100" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-23" value="获取设备信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="oZ41LeXlBQl8SFPvaIzU-20" source="oZ41LeXlBQl8SFPvaIzU-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="139.66666666666674" y="537" as="sourcePoint" />
+            <mxPoint x="50" y="537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-21" value="设备级联" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="169.50000000000045" y="551" as="sourcePoint" />
+            <mxPoint x="-280.33333333333326" y="551" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-22" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="oZ41LeXlBQl8SFPvaIzU-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-210" y="600" as="sourcePoint" />
+            <mxPoint x="169.50000000000045" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-24" value="返回设备信息，如型号" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="oZ41LeXlBQl8SFPvaIzU-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-191" y="720" as="sourcePoint" />
+            <mxPoint x="168.5" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-25" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="810" as="sourcePoint" />
+            <mxPoint x="169.32352941176487" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-26" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="953" as="sourcePoint" />
+            <mxPoint x="-50.18965517241395" y="953" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZ41LeXlBQl8SFPvaIzU-27" value="返回挂靠成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="930" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
