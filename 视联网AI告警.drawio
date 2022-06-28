@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T10:28:03.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hjIn8Oaho5tuc-EFpG55" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-28T10:53:16.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EZd3fQ7tZZDM10KWIzzj" version="19.0.0" type="github" pages="2">
   <diagram id="2Clb7JQj-5FD5byKYfWn" name="第 1 页">
     <mxGraphModel dx="2674" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-TitPs0DiowSWl45cNLl" name="第 2 页">
-    <mxGraphModel dx="2374" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RbBYjvZqR_2rnBjiRkuk-3" value="看家版" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-3" value="AI视联" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="100" height="1160" as="geometry" />
         </mxCell>
         <mxCell id="RbBYjvZqR_2rnBjiRkuk-5" value="推送设备级联信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
