@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T07:04:22.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ASgTjQt7GWrZfNbsahvi" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T10:28:03.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hjIn8Oaho5tuc-EFpG55" version="19.0.0" type="github" pages="2">
   <diagram id="2Clb7JQj-5FD5byKYfWn" name="第 1 页">
-    <mxGraphModel dx="2782" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2674" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,6 +91,128 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="639.5" y="606" as="sourcePoint" />
             <mxPoint x="409.5" y="606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-TitPs0DiowSWl45cNLl" name="第 2 页">
+    <mxGraphModel dx="2374" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-1" value="数字乡村" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="100" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-2" value="云播中台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="100" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RbBYjvZqR_2rnBjiRkuk-2">
+          <mxGeometry x="46" y="180" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-7" value="创建区域、组织信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="RbBYjvZqR_2rnBjiRkuk-6" parent="RbBYjvZqR_2rnBjiRkuk-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="51" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RbBYjvZqR_2rnBjiRkuk-2">
+          <mxGeometry x="45" y="281" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-9" value="创建设备" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="RbBYjvZqR_2rnBjiRkuk-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="260" />
+            </Array>
+            <mxPoint x="55" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;" vertex="1" parent="RbBYjvZqR_2rnBjiRkuk-2">
+          <mxGeometry x="45" y="380" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-14" value="创建挂靠信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=12;" edge="1" target="RbBYjvZqR_2rnBjiRkuk-13" parent="RbBYjvZqR_2rnBjiRkuk-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-3" value="看家版" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="100" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-5" value="推送设备级联信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="689.5" y="214" as="sourcePoint" />
+            <mxPoint x="449.5" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-10" value="推送设备绑定数据" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="449.5" y="579" as="sourcePoint" />
+            <mxPoint x="209.5" y="579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-15" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.5" y="621" as="sourcePoint" />
+            <mxPoint x="449.5" y="621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-16" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449.5" y="249" as="sourcePoint" />
+            <mxPoint x="689.5" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="445" y="782" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-20" value="删除设备" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="761" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="480" y="761" />
+            </Array>
+            <mxPoint x="455" y="781" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="445" y="881" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-22" value="删除挂靠信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=12;" edge="1" parent="1" target="RbBYjvZqR_2rnBjiRkuk-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="861" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="480" y="861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-23" value="推送设备取消级联信息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="689.5" y="685" as="sourcePoint" />
+            <mxPoint x="449.5" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-24" value="推送设备取消绑定" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="449.5" y="995" as="sourcePoint" />
+            <mxPoint x="209.5" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-25" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.5" y="1027" as="sourcePoint" />
+            <mxPoint x="449.5" y="1027" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbBYjvZqR_2rnBjiRkuk-26" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449.5" y="720" as="sourcePoint" />
+            <mxPoint x="689.5" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
