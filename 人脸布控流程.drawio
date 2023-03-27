@@ -1,116 +1,245 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T06:00:02.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="G3Lej06Kf4bbe-XGyK3c" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T07:54:47.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mtTgzdYx_bbjNo_86_u_" version="21.1.1" type="github">
   <diagram name="第 1 页" id="nAYPDop7Be8obEd-UhYW">
-    <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-2" value="设备主" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-2" value="设备主" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="290" as="sourcePoint" />
             <mxPoint x="240" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-4" value="使用设备主手机号登录云眼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-4" value="使用设备主手机号登录云眼" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="65" y="265" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-7" value="物管人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="545" width="30" height="60" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-7" value="物管人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="29" y="621" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="575" as="sourcePoint" />
-            <mxPoint x="240" y="575" as="targetPoint" />
+            <mxPoint x="79" y="651" as="sourcePoint" />
+            <mxPoint x="239" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-9" value="登录物管平台账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="550" width="120" height="30" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-9" value="登录社区物管平台账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="79" y="626" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-10" value="人脸库A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="609" y="420" width="120" height="80" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-10" value="设备A" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="838" y="502" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.061;exitY=-0.124;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hSgOfB5KBNhKDp7j3zVt-18" target="hSgOfB5KBNhKDp7j3zVt-10">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.014;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hSgOfB5KBNhKDp7j3zVt-22" target="hSgOfB5KBNhKDp7j3zVt-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="574.66" as="sourcePoint" />
-            <mxPoint x="596" y="575" as="targetPoint" />
+            <mxPoint x="631" y="627" as="sourcePoint" />
+            <mxPoint x="830" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hSgOfB5KBNhKDp7j3zVt-15">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="hSgOfB5KBNhKDp7j3zVt-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399" y="590" as="sourcePoint" />
-            <mxPoint x="529" y="590" as="targetPoint" />
+            <mxPoint x="622.04" y="652" as="sourcePoint" />
+            <mxPoint x="830" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-15" value="人脸库B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="559" width="120" height="80" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-15" value="设备B" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="838" y="612" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.022;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hSgOfB5KBNhKDp7j3zVt-17">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="hSgOfB5KBNhKDp7j3zVt-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="610" as="sourcePoint" />
-            <mxPoint x="600" y="700" as="targetPoint" />
+            <mxPoint x="622" y="674" as="sourcePoint" />
+            <mxPoint x="830" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-17" value="人脸库C" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="670" width="120" height="80" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-17" value="设备C" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="838" y="718" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-18" value="根据设备所有者手机号添加进不同的人脸库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="381" y="555" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="459.65999999999997" as="sourcePoint" />
-            <mxPoint x="860" y="560" as="targetPoint" />
+            <mxPoint x="959" y="541.66" as="sourcePoint" />
+            <mxPoint x="1060" y="542" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-22" value="在物管端对居民进行人脸布控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="545" width="120" height="60" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-22" value="选择居民进行人脸布控" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="621" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-23" value="给设备&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;绑定人脸布控AI套餐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-23" value="云眼绑定设备且级联给社区大账号，&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;并绑定人脸布控AI套餐" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="599.66" as="sourcePoint" />
-            <mxPoint x="840" y="600" as="targetPoint" />
+            <mxPoint x="960" y="656" as="sourcePoint" />
+            <mxPoint x="1060" y="656.34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="710" as="sourcePoint" />
-            <mxPoint x="860" y="650" as="targetPoint" />
+            <mxPoint x="959" y="759" as="sourcePoint" />
+            <mxPoint x="1059" y="759" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-26" value="下发人脸时社区根据设备所有者手机号所用的人脸库进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="569" width="120" height="60" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-26" value="携带设备A的设备主手机号调用视联添加人脸库信息接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1062" y="513" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.061;exitY=-0.124;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1016" y="573" as="sourcePoint" />
-            <mxPoint x="1235" y="500" as="targetPoint" />
+            <mxPoint x="2180" y="1020" as="sourcePoint" />
+            <mxPoint x="2405" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1019" y="612" as="sourcePoint" />
-            <mxPoint x="1231" y="611" as="targetPoint" />
+            <mxPoint x="1182" y="542" as="sourcePoint" />
+            <mxPoint x="1310" y="542" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.022;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1010" y="632" as="sourcePoint" />
-            <mxPoint x="1227" y="727" as="targetPoint" />
+            <mxPoint x="1184" y="658.5" as="sourcePoint" />
+            <mxPoint x="1312" y="659" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-30" value="设备A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="440" width="120" height="80" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-30" value="人脸库A" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1311" y="502" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-31" value="设备B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1242" y="579" width="120" height="80" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-31" value="人脸库B" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1315" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hSgOfB5KBNhKDp7j3zVt-32" value="设备C" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1242" y="690" width="120" height="80" as="geometry" />
+        <mxCell id="hSgOfB5KBNhKDp7j3zVt-32" value="人脸库C" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1315" y="725" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;前置条件：&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="195" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="hSgOfB5KBNhKDp7j3zVt-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="289.5" as="sourcePoint" />
+            <mxPoint x="440" y="289.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-5" value="天翼云眼" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;社区布控流程：&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="472" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-15" value="携带设备B的设备主手机号调用视联添加人脸库信息接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="628" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-16" value="携带设备C的设备主手机号调用视联添加人脸库信息接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="733" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1183" y="762.5" as="sourcePoint" />
+            <mxPoint x="1311" y="763" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1434" y="541.5" as="sourcePoint" />
+            <mxPoint x="1553" y="542" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1438" y="764" as="sourcePoint" />
+            <mxPoint x="1557" y="764.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1438" y="661" as="sourcePoint" />
+            <mxPoint x="1557" y="661.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-21" value="携带设备A的设备主手机号以及布控ID进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1557" y="511" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-22" value="携带设备B的设备主手机号以及布控ID进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1559" y="634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-23" value="携带设备C的设备主手机号以及布控ID进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1559" y="736" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-26" value="选择页面上展示的设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="624" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-28" value="社区物管平台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="611" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="hSgOfB5KBNhKDp7j3zVt-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="650.58" as="sourcePoint" />
+            <mxPoint x="440" y="650.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-32" value="小区居民" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1000" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1030" as="sourcePoint" />
+            <mxPoint x="230" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-34" value="路过摄像头被抓拍" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1005" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-35" value="设备A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352" y="1029.58" as="sourcePoint" />
+            <mxPoint x="462" y="1029.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-39" value="视联网" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-40" value="推送数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1005" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1029.58" as="sourcePoint" />
+            <mxPoint x="660" y="1029.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-42" value="社区" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;设备触发布控告警流程：&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="886" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1679" y="542.58" as="sourcePoint" />
+            <mxPoint x="1759" y="542.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-45" value="摄像头终端A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="504" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="663.58" as="sourcePoint" />
+            <mxPoint x="1760" y="663.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-47" value="摄像头终端B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="623" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="762.58" as="sourcePoint" />
+            <mxPoint x="1760" y="762.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-49" value="摄像头终端C" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1762" y="721" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
