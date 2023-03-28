@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T07:54:47.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mtTgzdYx_bbjNo_86_u_" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T01:00:18.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bd6GLCNhnBiTRG-2ERsP" version="21.1.1" type="github">
   <diagram name="第 1 页" id="nAYPDop7Be8obEd-UhYW">
-    <mxGraphModel dx="2796" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2923" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,13 +154,13 @@
             <mxPoint x="1557" y="661.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kljx_P4oqo9KZi3YXP2N-21" value="携带设备A的设备主手机号以及布控ID进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-21" value="携带设备A的设备主手机号以及人脸库A返回的布控ID进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1557" y="511" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kljx_P4oqo9KZi3YXP2N-22" value="携带设备B的设备主手机号以及布控ID进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1559" y="634" width="120" height="60" as="geometry" />
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-22" value="携带设备B的设备主手机号以及人脸库B返回的布控ID进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="634" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kljx_P4oqo9KZi3YXP2N-23" value="携带设备C的设备主手机号以及布控ID进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Kljx_P4oqo9KZi3YXP2N-23" value="携带设备C的设备主手机号以及人脸库C返回的布控ID进行下发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1559" y="736" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kljx_P4oqo9KZi3YXP2N-26" value="选择页面上展示的设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
