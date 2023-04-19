@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T02:35:13.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.1" etag="uvbksuwUo_f7-9Dqijz1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T02:48:38.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Cy1LEcoVZyzfwkL2lbep" version="21.1.1" type="github">
   <diagram name="第 1 页" id="HCcWAMiA1S6SGucyLEBG">
-    <mxGraphModel>
+    <mxGraphModel dx="1277" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Lb2NxYPr-FPp_HQJOKX4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lb2NxYPr-FPp_HQJOKX4-5" target="Lb2NxYPr-FPp_HQJOKX4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb2NxYPr-FPp_HQJOKX4-5" value="查询设备&lt;br&gt;能力标签" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb2NxYPr-FPp_HQJOKX4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lb2NxYPr-FPp_HQJOKX4-6" target="Lb2NxYPr-FPp_HQJOKX4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb2NxYPr-FPp_HQJOKX4-6" value="调用PAAS订阅接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb2NxYPr-FPp_HQJOKX4-8" value="非销售品AI&lt;br&gt;（高抛，1400人脸/车牌抓拍）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="358" y="310" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb2NxYPr-FPp_HQJOKX4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lb2NxYPr-FPp_HQJOKX4-15" target="Lb2NxYPr-FPp_HQJOKX4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb2NxYPr-FPp_HQJOKX4-15" value="查询设备&lt;br&gt;AI套餐" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb2NxYPr-FPp_HQJOKX4-17" value="调用PAAS订阅接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="963" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb2NxYPr-FPp_HQJOKX4-19" value="销售品AI&lt;br&gt;（区域、口罩、电瓶车等）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="808" y="309" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
