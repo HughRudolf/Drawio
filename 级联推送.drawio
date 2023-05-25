@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T04:30:28.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jCjkuhrD_eefgApjBUaB" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T01:07:01.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TjLadlp3z1Gml-0W66b_" version="21.1.9" type="github">
   <diagram name="第 1 页" id="xSHDLC9iTLeJKKkzIBzT">
-    <mxGraphModel dx="4175" dy="1516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4256" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
             <mxPoint x="440" y="621" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="78vTQtUPauRNi7CbJsIa-8" value="区分数据类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78vTQtUPauRNi7CbJsIa-8" value="区分AI类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="541" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="78vTQtUPauRNi7CbJsIa-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="78vTQtUPauRNi7CbJsIa-9" target="78vTQtUPauRNi7CbJsIa-33">
